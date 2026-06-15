@@ -19,7 +19,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Hi%20there%2C%20I'm%20YOUR_NAME&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%26%20Python%20FastAPI%20Developer&descSize=18&descAlignY=58" alt="header"/>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/naimulislamrabbi003-arch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Python+FastAPI+Backend+Developer;Building+clean+%26+scalable+apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 

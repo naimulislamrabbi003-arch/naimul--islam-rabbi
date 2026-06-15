@@ -26,8 +26,8 @@
 <!-- ===================== PROFILE BADGES ===================== -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="profile views"/>
-  <a href="https://github.com/YOUR_USERNAME?tab=followers">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="followers"/>
+  <a href="https://github.com/naimulislamrabbi003-arch?tab=followers">
+    <img src="https://img.shields.io/github/followers/naimulislamrabbi003-arch?label=Followers&style=for-the-badge&color=36BCF7&logo=github" alt="followers"/>
   </a>
 </p>
 
@@ -147,7 +147,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/naimulislamrabbi003-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/naimulislamrabbi003-arch/naimulislamrabbi003-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 

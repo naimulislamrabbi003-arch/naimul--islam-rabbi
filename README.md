@@ -147,7 +147,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="<img width="100%" src="https://raw.githubusercontent.com/naimulislamrabbi003-arch/naimulislamrabbi003-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />" alt="snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/naimulislamrabbi003-arch/naimulislamrabbi003-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 

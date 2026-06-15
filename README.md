@@ -138,8 +138,8 @@ const naimul = {
 <div align="center">
 
 <!-- Replace REPO_NAME_1 / REPO_NAME_2 with your real repository names -->
-<a href="https://github.com/naimulislamrabbi003-arch/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naimulislamrabbi003-arch&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
+<a href="https://github.com/naimulislamrabbi003-arch/vanta-store">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naimulislamrabbi003-arch&repo=vanta-store&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />
 </a>
 <a href="https://github.com/naimulislamrabbi003-arch/REPO_NAME_2">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=naimulislamrabbi003-arch&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" />

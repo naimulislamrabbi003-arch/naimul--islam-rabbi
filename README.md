@@ -109,12 +109,12 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naimulislamrabbi003-arch&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naimulislamrabbi003-arch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&langs_count=8" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naimulislamrabbi003-arch&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak" />
 
 </div>
 
@@ -125,7 +125,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=naimulislamrabbi003-arch&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
 
 </div>
 
@@ -136,7 +136,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=naimulislamrabbi003-arch&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies" />
 
 </div>
 
@@ -147,7 +147,7 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img width="100%" src="https://raw.githubusercontent.com/YOUR_USERNAME/naimulislamrabbi003-arch/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
